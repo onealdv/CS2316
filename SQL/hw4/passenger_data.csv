@@ -1,0 +1,1000 @@
+index,date,route_id,route_name,direction,stop_id,stop_name,ons,offs,vehicle_id
+1,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,139050,JONESBORO RD SE/WHATLEY ST SE,2,3,2409
+2,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,102148,MITCHELL ST SW/PRYOR ST SW,1,,2409
+3,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,102150,CAPITOL SQ SW/CAPITOL PL SW,1,,2409
+4,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115172,HANK AARON DR/VANIRA AVE SE,,,2409
+5,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125060,MCDONOUGH BLVD SE/MARCY ST SE,,,2409
+6,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,139008,JONESBORO RD SE/JORDAN ST SE,,1,2409
+7,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,139010,BROWNS MILL RD SE/LAQUITA DR SE,,,2409
+8,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,102262,MITCHELL ST SW/CENTRAL AVE SW,,,2409
+9,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115204,HANK AARON DR SW/LITTLE ST SE,,1,2409
+10,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,102270,BROAD ST/ALABAMA ST (FIVE POINTS STATION),27,,2409
+11,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159254,HUTCHENS RD SE/DONNEBROOK LN SE,,,2409
+12,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159272,JONESBORO RD SE/SPRINGSIDE DR SE,,,2409
+13,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159274,JONESBORO RD SE/SPRINGSIDE DR,,,2409
+14,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159276,JONESBORO RD SE/2961,,,2409
+15,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115192,HANK AARON DR/RALPH D ABERNATHY BLVD,,1,2409
+16,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125028,WEYMAN AVE SW/RIDGE AVE SW,,2,2409
+17,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125072,JONESBORO RD SE/MOURY AVE SE,,,2409
+18,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,150069,JONESBORO RD SE/CLEVELAND AVE SE,,3,2409
+19,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125244,WEYMAN AVE/HANK AARON DR,,1,2409
+20,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,138006,JONESBORO RD SE/LETHEA ST SE,,3,2409
+21,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,139014,BROWNS MILL RD SE/2039,,,2409
+22,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115176,HANK AARON DR/964,,,2409
+23,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115164,HANK AARON DR/ORMOND ST SE,,,2409
+24,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115222,HANK AARON DR SW/BILL LUCAS DR SW,,,2409
+25,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115168,HANK AARON DR/ATLANTA AVE SE,0,0,2409
+26,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125030,RIDGE AVE SW/PULLIAM ST,,3,2409
+27,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115194,CAPITOL AVE/FULTON ST,,,2409
+28,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125062,MCDONOUGH BLVD SE/JONESBORO RD SE,,,2409
+29,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125064,JONESBORO RD SE/GAMMON AVE SE,,,2409
+30,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125066,JONESBORO RD SE/MARTIN AVE SE,,,2409
+31,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125067,JONESBORO RD SE/THIRKIELD AVE SE,,1,2409
+32,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,150010,JONESBORO RD SE/MIDWAY ST SE,,1,2409
+33,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159250,HUTCHENS RD SE/565,,,2409
+34,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159252,HUTCHENS RD SE/KING SMITH RD SE,,,2409
+35,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115180,HANK AARON DR SW/HAYGOOD AVE SW,,2,2409
+36,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,139012,BROWNS MILL RD SE/ADELLE ST SE,,,2409
+37,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125068,JONESBORO RD SE/BROWN AVE SE,,,2409
+38,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159246,HUTCHENS RD SE/JONESBORO RD SE,1,1,2409
+39,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125070,JONESBORO RD SE/MELDON AVE SE,,1,2409
+40,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159410,HUTCHENS RD/KATOMARICK DR,,,2409
+41,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212075,JONESBORO RD/GRACE DR,1,2,2409
+42,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212076,JONESBORO RD/FOREST AVE,,,2409
+43,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212077,JONESBORO RD/MARIE ST,,,2409
+44,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212204,HUTCHENS RD SE/860,,,2409
+45,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167002,HUTCHENS RD/FORREST PARK RD,,,2409
+46,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167004,FORREST PARK RD SE/PINE FOREST DR,,,2409
+47,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167006,FORREST PARK RD SE/EISENHOWER RD SE,1,,2409
+48,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167008,FORREST PARK RD SE/HENDON RD,,,2409
+49,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167010,FORREST PARK RD SE/FOREST VALLEY DR,,,2409
+50,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167012,CONLEY RD SE/900,,,2409
+51,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212352,FOREST PKY/ASH ST,,,2409
+52,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212353,FOREST PKY/BARTLETT DR,,0,2409
+53,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212581,FOREST PKY/MAPLE DR,,,2409
+54,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167016,CONLEY RD SE/JONESBORO RD SE,0,0,2409
+55,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167034,FORREST PARK RD/CONLEY RD,,1,2409
+56,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,210010,HUTCHENS RD/860,,,2409
+57,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212584,MAIN ST/JONESBORO RD,,,2409
+58,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212585,MAIN ST/PHILLIPS DR,,1,2409
+59,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212586,MAIN ST/COLLEGE ST,,,2409
+60,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212675,JONESBORO RD SE/HARPER RD SE,,,2409
+61,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212835,JONESBORO RD SE/CLAIRE DR SE,,,2409
+62,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,210601,BROWNS MILL RD/HARPER RD,,1,2409
+63,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211148,HANK AARON DR SE/BASS ST SE,,,2409
+64,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211169,UNIVERSITY AVE SW/71,,,2409
+65,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211194,JONESBORO RD SE/CONSTITUTION RD SE,,,2409
+66,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211206,BROWNS MILL RD SE/GREENDALE DR SE,,,2409
+67,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211225,HUTCHENS RD SE/916,,,2409
+68,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211309,UNIVERSITY AVE SW/PRYOR RD SW,,,2409
+69,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211406,HARPER RD SE/BURROUGHS AVE SE,,3,2409
+70,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211407,JONESBORO RD SE/MCWILLIAMS RD SE,,,2409
+71,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,901265,PEACHTREE ST/MARTIN L KING JR DR,,,2409
+72,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211650,JONESBORO RD SE/2491,,,2409
+73,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212069,JONESBORO RD/RUSKIN DR,,,2409
+74,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212070,JONESBORO RD/SCOTT RD,,,2409
+75,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212071,JONESBORO RD/CONLEY RD,,1,2409
+76,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212072,JONESBORO RD/COLLEGE ST,,,2409
+77,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212073,JONESBORO RD/ERNEST DR,,,2409
+78,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212074,JONESBORO RD/OLD JONESBORO RD,,1,2409
+79,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,139050,JONESBORO RD SE/WHATLEY ST SE,1,,2409
+80,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,102148,MITCHELL ST SW/PRYOR ST SW,,,2409
+81,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,102150,CAPITOL SQ SW/CAPITOL PL SW,,,2409
+82,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125060,MCDONOUGH BLVD SE/MARCY ST SE,,,2409
+83,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,139008,JONESBORO RD SE/JORDAN ST SE,,1,2409
+84,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,139010,BROWNS MILL RD SE/LAQUITA DR SE,,,2409
+85,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,102262,MITCHELL ST SW/CENTRAL AVE SW,,,2409
+86,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115172,HANK AARON DR/VANIRA AVE SE,,1,2409
+87,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,102270,BROAD ST/ALABAMA ST (FIVE POINTS STATION),24,,2409
+88,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159272,JONESBORO RD SE/SPRINGSIDE DR SE,,,2409
+89,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159274,JONESBORO RD SE/SPRINGSIDE DR,,,2409
+90,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125028,WEYMAN AVE SW/RIDGE AVE SW,,,2409
+91,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125072,JONESBORO RD SE/MOURY AVE SE,,,2409
+92,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125244,WEYMAN AVE/HANK AARON DR,,,2409
+93,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,138006,JONESBORO RD SE/LETHEA ST SE,,4,2409
+94,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,139014,BROWNS MILL RD SE/2039,,,2409
+95,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,150069,JONESBORO RD SE/CLEVELAND AVE SE,1,1,2409
+96,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115204,HANK AARON DR SW/LITTLE ST SE,,1,2409
+97,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115176,HANK AARON DR/964,,,2409
+98,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115164,HANK AARON DR/ORMOND ST SE,,,2409
+99,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115192,HANK AARON DR/RALPH D ABERNATHY BLVD,,3,2409
+100,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115222,HANK AARON DR SW/BILL LUCAS DR SW,,,2409
+101,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115168,HANK AARON DR/ATLANTA AVE SE,,1,2409
+102,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125030,RIDGE AVE SW/PULLIAM ST,,1,2409
+103,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115194,CAPITOL AVE/FULTON ST,1,,2409
+104,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125062,MCDONOUGH BLVD SE/JONESBORO RD SE,,,2409
+105,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125064,JONESBORO RD SE/GAMMON AVE SE,,,2409
+106,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125066,JONESBORO RD SE/MARTIN AVE SE,,,2409
+107,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125067,JONESBORO RD SE/THIRKIELD AVE SE,,1,2409
+108,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159276,JONESBORO RD SE/2961,1,1,2409
+109,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,150010,JONESBORO RD SE/MIDWAY ST SE,,1,2409
+110,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159254,HUTCHENS RD SE/DONNEBROOK LN SE,,,2409
+111,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159250,HUTCHENS RD SE/565,,,2409
+112,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159252,HUTCHENS RD SE/KING SMITH RD SE,,,2409
+113,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115180,HANK AARON DR SW/HAYGOOD AVE SW,1,,2409
+114,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,139012,BROWNS MILL RD SE/ADELLE ST SE,,,2409
+115,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125068,JONESBORO RD SE/BROWN AVE SE,,,2409
+116,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159246,HUTCHENS RD SE/JONESBORO RD SE,,3,2409
+117,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125070,JONESBORO RD SE/MELDON AVE SE,,,2409
+118,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159410,HUTCHENS RD/KATOMARICK DR,,,2409
+119,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212075,JONESBORO RD/GRACE DR,,2,2409
+120,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212076,JONESBORO RD/FOREST AVE,1,,2409
+121,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212077,JONESBORO RD/MARIE ST,,1,2409
+122,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212204,HUTCHENS RD SE/860,,,2409
+123,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167002,HUTCHENS RD/FORREST PARK RD,,,2409
+124,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167004,FORREST PARK RD SE/PINE FOREST DR,1,,2409
+125,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167006,FORREST PARK RD SE/EISENHOWER RD SE,1,,2409
+126,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167008,FORREST PARK RD SE/HENDON RD,,,2409
+127,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167010,FORREST PARK RD SE/FOREST VALLEY DR,,1,2409
+128,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167012,CONLEY RD SE/900,,1,2409
+129,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212352,FOREST PKY/ASH ST,,1,2409
+130,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212353,FOREST PKY/BARTLETT DR,,1,2409
+131,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212581,FOREST PKY/MAPLE DR,1,1,2409
+132,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167016,CONLEY RD SE/JONESBORO RD SE,1,,2409
+133,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167034,FORREST PARK RD/CONLEY RD,,2,2409
+134,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,210010,HUTCHENS RD/860,,,2409
+135,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212584,MAIN ST/JONESBORO RD,,,2409
+136,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212585,MAIN ST/PHILLIPS DR,,,2409
+137,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212586,MAIN ST/COLLEGE ST,,,2409
+138,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212675,JONESBORO RD SE/HARPER RD SE,,,2409
+139,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212835,JONESBORO RD SE/CLAIRE DR SE,,,2409
+140,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,210601,BROWNS MILL RD/HARPER RD,,,2409
+141,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211148,HANK AARON DR SE/BASS ST SE,,1,2409
+142,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211169,UNIVERSITY AVE SW/71,,,2409
+143,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211194,JONESBORO RD SE/CONSTITUTION RD SE,,,2409
+144,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211206,BROWNS MILL RD SE/GREENDALE DR SE,,1,2409
+145,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211225,HUTCHENS RD SE/916,,,2409
+146,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211309,UNIVERSITY AVE SW/PRYOR RD SW,2,2,2409
+147,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211406,HARPER RD SE/BURROUGHS AVE SE,,1,2409
+148,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211407,JONESBORO RD SE/MCWILLIAMS RD SE,,,2409
+149,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,901265,PEACHTREE ST/MARTIN L KING JR DR,4,,2409
+150,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211650,JONESBORO RD SE/2491,,,2409
+151,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212069,JONESBORO RD/RUSKIN DR,,1,2409
+152,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212070,JONESBORO RD/SCOTT RD,,,2409
+153,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212071,JONESBORO RD/CONLEY RD,,,2409
+154,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212072,JONESBORO RD/COLLEGE ST,,2,2409
+155,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212073,JONESBORO RD/ERNEST DR,,1,2409
+156,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212074,JONESBORO RD/OLD JONESBORO RD,,2,2409
+157,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,139014,BROWNS MILL RD SE/2039,,,2409
+158,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,139050,JONESBORO RD SE/WHATLEY ST SE,,2,2409
+159,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,102148,MITCHELL ST SW/PRYOR ST SW,,,2409
+160,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,102150,CAPITOL SQ SW/CAPITOL PL SW,,,2409
+161,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115194,CAPITOL AVE/FULTON ST,2,,2409
+162,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125060,MCDONOUGH BLVD SE/MARCY ST SE,,,2409
+163,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,139008,JONESBORO RD SE/JORDAN ST SE,,,2409
+164,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,102262,MITCHELL ST SW/CENTRAL AVE SW,,,2409
+165,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115172,HANK AARON DR/VANIRA AVE SE,,,2409
+166,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125067,JONESBORO RD SE/THIRKIELD AVE SE,,,2409
+167,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159246,HUTCHENS RD SE/JONESBORO RD SE,,,2409
+168,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,102270,BROAD ST/ALABAMA ST (FIVE POINTS STATION),32,,2409
+169,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159272,JONESBORO RD SE/SPRINGSIDE DR SE,,,2409
+170,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159274,JONESBORO RD SE/SPRINGSIDE DR,,,2409
+171,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125028,WEYMAN AVE SW/RIDGE AVE SW,,,2409
+172,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125070,JONESBORO RD SE/MELDON AVE SE,,1,2409
+173,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125072,JONESBORO RD SE/MOURY AVE SE,,,2409
+174,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125244,WEYMAN AVE/HANK AARON DR,,,2409
+175,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,138006,JONESBORO RD SE/LETHEA ST SE,,2,2409
+176,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,139012,BROWNS MILL RD SE/ADELLE ST SE,,,2409
+177,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115204,HANK AARON DR SW/LITTLE ST SE,,,2409
+178,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115176,HANK AARON DR/964,,,2409
+179,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,150069,JONESBORO RD SE/CLEVELAND AVE SE,3,2,2409
+180,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115164,HANK AARON DR/ORMOND ST SE,,2,2409
+181,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115192,HANK AARON DR/RALPH D ABERNATHY BLVD,,,2409
+182,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125030,RIDGE AVE SW/PULLIAM ST,,,2409
+183,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125062,MCDONOUGH BLVD SE/JONESBORO RD SE,,,2409
+184,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125064,JONESBORO RD SE/GAMMON AVE SE,,,2409
+185,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125066,JONESBORO RD SE/MARTIN AVE SE,,1,2409
+186,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,139010,BROWNS MILL RD SE/LAQUITA DR SE,,3,2409
+187,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,150010,JONESBORO RD SE/MIDWAY ST SE,,,2409
+188,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159254,HUTCHENS RD SE/DONNEBROOK LN SE,,2,2409
+189,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159250,HUTCHENS RD SE/565,,,2409
+190,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159252,HUTCHENS RD SE/KING SMITH RD SE,2,2,2409
+191,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115180,HANK AARON DR SW/HAYGOOD AVE SW,,1,2409
+192,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115222,HANK AARON DR SW/BILL LUCAS DR SW,,,2409
+193,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115168,HANK AARON DR/ATLANTA AVE SE,0,0,2409
+194,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125068,JONESBORO RD SE/BROWN AVE SE,1,1,2409
+195,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159276,JONESBORO RD SE/2961,,,2409
+196,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159410,HUTCHENS RD/KATOMARICK DR,,,2409
+197,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212075,JONESBORO RD/GRACE DR,,1,2409
+198,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212076,JONESBORO RD/FOREST AVE,,,2409
+199,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212077,JONESBORO RD/MARIE ST,,,2409
+200,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212204,HUTCHENS RD SE/860,,1,2409
+201,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167002,HUTCHENS RD/FORREST PARK RD,,,2409
+202,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167004,FORREST PARK RD SE/PINE FOREST DR,,1,2409
+203,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167006,FORREST PARK RD SE/EISENHOWER RD SE,,,2409
+204,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167008,FORREST PARK RD SE/HENDON RD,,,2409
+205,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167010,FORREST PARK RD SE/FOREST VALLEY DR,,,2409
+206,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167012,CONLEY RD SE/900,,1,2409
+207,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212352,FOREST PKY/ASH ST,,1,2409
+208,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212353,FOREST PKY/BARTLETT DR,,1,2409
+209,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212581,FOREST PKY/MAPLE DR,,,2409
+210,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167016,CONLEY RD SE/JONESBORO RD SE,0,0,2409
+211,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167034,FORREST PARK RD/CONLEY RD,,1,2409
+212,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,210010,HUTCHENS RD/860,,,2409
+213,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212584,MAIN ST/JONESBORO RD,,1,2409
+214,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212585,MAIN ST/PHILLIPS DR,,,2409
+215,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212586,MAIN ST/COLLEGE ST,,,2409
+216,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212675,JONESBORO RD SE/HARPER RD SE,,,2409
+217,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212835,JONESBORO RD SE/CLAIRE DR SE,,,2409
+218,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,210601,BROWNS MILL RD/HARPER RD,,2,2409
+219,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211148,HANK AARON DR SE/BASS ST SE,,,2409
+220,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211169,UNIVERSITY AVE SW/71,,,2409
+221,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211194,JONESBORO RD SE/CONSTITUTION RD SE,,,2409
+222,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211206,BROWNS MILL RD SE/GREENDALE DR SE,,2,2409
+223,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211225,HUTCHENS RD SE/916,,2,2409
+224,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211309,UNIVERSITY AVE SW/PRYOR RD SW,,,2409
+225,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211406,HARPER RD SE/BURROUGHS AVE SE,,,2409
+226,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211407,JONESBORO RD SE/MCWILLIAMS RD SE,,,2409
+227,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,901265,PEACHTREE ST/MARTIN L KING JR DR,,,2409
+228,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211650,JONESBORO RD SE/2491,,,2409
+229,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212069,JONESBORO RD/RUSKIN DR,,,2409
+230,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212070,JONESBORO RD/SCOTT RD,,2,2409
+231,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212071,JONESBORO RD/CONLEY RD,,3,2409
+232,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212072,JONESBORO RD/COLLEGE ST,,1,2409
+233,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212073,JONESBORO RD/ERNEST DR,,1,2409
+234,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212074,JONESBORO RD/OLD JONESBORO RD,,,2409
+235,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,139014,BROWNS MILL RD SE/2039,,,2409
+236,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,139050,JONESBORO RD SE/WHATLEY ST SE,1,1,2409
+237,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,102148,MITCHELL ST SW/PRYOR ST SW,,,2409
+238,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,102150,CAPITOL SQ SW/CAPITOL PL SW,,,2409
+239,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125060,MCDONOUGH BLVD SE/MARCY ST SE,,1,2409
+240,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125066,JONESBORO RD SE/MARTIN AVE SE,,,2409
+241,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,139008,JONESBORO RD SE/JORDAN ST SE,,,2409
+242,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,102262,MITCHELL ST SW/CENTRAL AVE SW,1,,2409
+243,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115172,HANK AARON DR/VANIRA AVE SE,,,2409
+244,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115194,CAPITOL AVE/FULTON ST,,,2409
+245,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125067,JONESBORO RD SE/THIRKIELD AVE SE,,,2409
+246,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159246,HUTCHENS RD SE/JONESBORO RD SE,,,2409
+247,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,102270,BROAD ST/ALABAMA ST (FIVE POINTS STATION),19,,2409
+248,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159272,JONESBORO RD SE/SPRINGSIDE DR SE,,,2409
+249,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159274,JONESBORO RD SE/SPRINGSIDE DR,,,2409
+250,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125028,WEYMAN AVE SW/RIDGE AVE SW,,,2409
+251,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125070,JONESBORO RD SE/MELDON AVE SE,,,2409
+252,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125072,JONESBORO RD SE/MOURY AVE SE,,2,2409
+253,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125244,WEYMAN AVE/HANK AARON DR,,,2409
+254,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,138006,JONESBORO RD SE/LETHEA ST SE,,,2409
+255,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,139012,BROWNS MILL RD SE/ADELLE ST SE,,,2409
+256,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115204,HANK AARON DR SW/LITTLE ST SE,,,2409
+257,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115176,HANK AARON DR/964,,,2409
+258,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,150069,JONESBORO RD SE/CLEVELAND AVE SE,1,1,2409
+259,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115192,HANK AARON DR/RALPH D ABERNATHY BLVD,,,2409
+260,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115164,HANK AARON DR/ORMOND ST SE,,1,2409
+261,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125030,RIDGE AVE SW/PULLIAM ST,,1,2409
+262,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125062,MCDONOUGH BLVD SE/JONESBORO RD SE,,,2409
+263,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125064,JONESBORO RD SE/GAMMON AVE SE,,,2409
+264,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,139010,BROWNS MILL RD SE/LAQUITA DR SE,,3,2409
+265,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,150010,JONESBORO RD SE/MIDWAY ST SE,,,2409
+266,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159254,HUTCHENS RD SE/DONNEBROOK LN SE,,,2409
+267,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159250,HUTCHENS RD SE/565,,,2409
+268,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159252,HUTCHENS RD SE/KING SMITH RD SE,,,2409
+269,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115180,HANK AARON DR SW/HAYGOOD AVE SW,,1,2409
+270,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115222,HANK AARON DR SW/BILL LUCAS DR SW,,,2409
+271,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115168,HANK AARON DR/ATLANTA AVE SE,,1,2409
+272,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125068,JONESBORO RD SE/BROWN AVE SE,,,2409
+273,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159276,JONESBORO RD SE/2961,,1,2409
+274,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159410,HUTCHENS RD/KATOMARICK DR,,,2409
+275,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212074,JONESBORO RD/OLD JONESBORO RD,,1,2409
+276,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212075,JONESBORO RD/GRACE DR,,1,2409
+277,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212076,JONESBORO RD/FOREST AVE,,,2409
+278,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212077,JONESBORO RD/MARIE ST,,,2409
+279,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212204,HUTCHENS RD SE/860,,,2409
+280,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167002,HUTCHENS RD/FORREST PARK RD,1,,2409
+281,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167004,FORREST PARK RD SE/PINE FOREST DR,,,2409
+282,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167006,FORREST PARK RD SE/EISENHOWER RD SE,,1,2409
+283,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167008,FORREST PARK RD SE/HENDON RD,,,2409
+284,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167010,FORREST PARK RD SE/FOREST VALLEY DR,,,2409
+285,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167012,CONLEY RD SE/900,,,2409
+286,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212352,FOREST PKY/ASH ST,,,2409
+287,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212353,FOREST PKY/BARTLETT DR,,0,2409
+288,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212581,FOREST PKY/MAPLE DR,,,2409
+289,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167016,CONLEY RD SE/JONESBORO RD SE,,1,2409
+290,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167034,FORREST PARK RD/CONLEY RD,,1,2409
+291,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,210010,HUTCHENS RD/860,,,2409
+292,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212584,MAIN ST/JONESBORO RD,,,2409
+293,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212585,MAIN ST/PHILLIPS DR,,1,2409
+294,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212586,MAIN ST/COLLEGE ST,,,2409
+295,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212675,JONESBORO RD SE/HARPER RD SE,,,2409
+296,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212835,JONESBORO RD SE/CLAIRE DR SE,,,2409
+297,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,210601,BROWNS MILL RD/HARPER RD,,,2409
+298,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211148,HANK AARON DR SE/BASS ST SE,,,2409
+299,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211169,UNIVERSITY AVE SW/71,,,2409
+300,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211194,JONESBORO RD SE/CONSTITUTION RD SE,,,2409
+301,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211206,BROWNS MILL RD SE/GREENDALE DR SE,,,2409
+302,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211225,HUTCHENS RD SE/916,,,2409
+303,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211309,UNIVERSITY AVE SW/PRYOR RD SW,1,,2409
+304,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211406,HARPER RD SE/BURROUGHS AVE SE,,1,2409
+305,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211407,JONESBORO RD SE/MCWILLIAMS RD SE,,2,2409
+306,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,901265,PEACHTREE ST/MARTIN L KING JR DR,1,,2409
+307,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211650,JONESBORO RD SE/2491,,,2409
+308,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212069,JONESBORO RD/RUSKIN DR,,1,2409
+309,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212070,JONESBORO RD/SCOTT RD,,,2409
+310,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212071,JONESBORO RD/CONLEY RD,,2,2409
+311,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212072,JONESBORO RD/COLLEGE ST,,,2409
+312,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212073,JONESBORO RD/ERNEST DR,,,2409
+313,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,102148,MITCHELL ST SW/PRYOR ST SW,,,2409
+314,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,102150,CAPITOL SQ SW/CAPITOL PL SW,,,2409
+315,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115172,HANK AARON DR/VANIRA AVE SE,,1,2409
+316,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125060,MCDONOUGH BLVD SE/MARCY ST SE,,,2409
+317,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125062,MCDONOUGH BLVD SE/JONESBORO RD SE,,,2409
+318,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,139010,BROWNS MILL RD SE/LAQUITA DR SE,1,,2409
+319,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,102270,BROAD ST/ALABAMA ST (FIVE POINTS STATION),19,,2409
+320,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115204,HANK AARON DR SW/LITTLE ST SE,,,2409
+321,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125068,JONESBORO RD SE/BROWN AVE SE,,,2409
+322,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159250,HUTCHENS RD SE/565,,,2409
+323,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159254,HUTCHENS RD SE/DONNEBROOK LN SE,,,2409
+324,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159272,JONESBORO RD SE/SPRINGSIDE DR SE,,,2409
+325,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159274,JONESBORO RD SE/SPRINGSIDE DR,,,2409
+326,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159276,JONESBORO RD SE/2961,,,2409
+327,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115192,HANK AARON DR/RALPH D ABERNATHY BLVD,,1,2409
+328,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125028,WEYMAN AVE SW/RIDGE AVE SW,,,2409
+329,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125030,RIDGE AVE SW/PULLIAM ST,,1,2409
+330,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125072,JONESBORO RD SE/MOURY AVE SE,,,2409
+331,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,150069,JONESBORO RD SE/CLEVELAND AVE SE,,1,2409
+332,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125244,WEYMAN AVE/HANK AARON DR,,,2409
+333,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,139008,JONESBORO RD SE/JORDAN ST SE,,,2409
+334,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,139014,BROWNS MILL RD SE/2039,,,2409
+335,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115222,HANK AARON DR SW/BILL LUCAS DR SW,,,2409
+336,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115176,HANK AARON DR/964,,,2409
+337,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125067,JONESBORO RD SE/THIRKIELD AVE SE,,,2409
+338,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,139050,JONESBORO RD SE/WHATLEY ST SE,,1,2409
+339,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115164,HANK AARON DR/ORMOND ST SE,,,2409
+340,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115194,CAPITOL AVE/FULTON ST,,2,2409
+341,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115168,HANK AARON DR/ATLANTA AVE SE,0,0,2409
+342,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125064,JONESBORO RD SE/GAMMON AVE SE,,,2409
+343,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125066,JONESBORO RD SE/MARTIN AVE SE,,1,2409
+344,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,139012,BROWNS MILL RD SE/ADELLE ST SE,,,2409
+345,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,150010,JONESBORO RD SE/MIDWAY ST SE,,,2409
+346,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159252,HUTCHENS RD SE/KING SMITH RD SE,,,2409
+347,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115180,HANK AARON DR SW/HAYGOOD AVE SW,,1,2409
+348,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159246,HUTCHENS RD SE/JONESBORO RD SE,,1,2409
+349,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,102262,MITCHELL ST SW/CENTRAL AVE SW,,,2409
+350,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125070,JONESBORO RD SE/MELDON AVE SE,,,2409
+351,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,138006,JONESBORO RD SE/LETHEA ST SE,,,2409
+352,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159410,HUTCHENS RD/KATOMARICK DR,,,2409
+353,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212075,JONESBORO RD/GRACE DR,,1,2409
+354,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212076,JONESBORO RD/FOREST AVE,,,2409
+355,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212077,JONESBORO RD/MARIE ST,,,2409
+356,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212204,HUTCHENS RD SE/860,,,2409
+357,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167002,HUTCHENS RD/FORREST PARK RD,,,2409
+358,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167004,FORREST PARK RD SE/PINE FOREST DR,,,2409
+359,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167006,FORREST PARK RD SE/EISENHOWER RD SE,,,2409
+360,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167008,FORREST PARK RD SE/HENDON RD,1,,2409
+361,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167010,FORREST PARK RD SE/FOREST VALLEY DR,,,2409
+362,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167012,CONLEY RD SE/900,,1,2409
+363,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212352,FOREST PKY/ASH ST,,,2409
+364,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212353,FOREST PKY/BARTLETT DR,,1,2409
+365,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212581,FOREST PKY/MAPLE DR,,,2409
+366,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212584,MAIN ST/JONESBORO RD,,1,2409
+367,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167016,CONLEY RD SE/JONESBORO RD SE,,4,2409
+368,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167034,FORREST PARK RD/CONLEY RD,,1,2409
+369,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,210010,HUTCHENS RD/860,,,2409
+370,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212585,MAIN ST/PHILLIPS DR,,,2409
+371,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212586,MAIN ST/COLLEGE ST,,,2409
+372,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212675,JONESBORO RD SE/HARPER RD SE,,,2409
+373,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212835,JONESBORO RD SE/CLAIRE DR SE,,1,2409
+374,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,210601,BROWNS MILL RD/HARPER RD,,,2409
+375,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211148,HANK AARON DR SE/BASS ST SE,,,2409
+376,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211169,UNIVERSITY AVE SW/71,,1,2409
+377,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211194,JONESBORO RD SE/CONSTITUTION RD SE,,,2409
+378,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211206,BROWNS MILL RD SE/GREENDALE DR SE,,,2409
+379,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211225,HUTCHENS RD SE/916,,,2409
+380,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211309,UNIVERSITY AVE SW/PRYOR RD SW,1,,2409
+381,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211406,HARPER RD SE/BURROUGHS AVE SE,,1,2409
+382,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211407,JONESBORO RD SE/MCWILLIAMS RD SE,,,2409
+383,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,901265,PEACHTREE ST/MARTIN L KING JR DR,1,,2409
+384,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211650,JONESBORO RD SE/2491,,,2409
+385,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212069,JONESBORO RD/RUSKIN DR,,,2409
+386,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212070,JONESBORO RD/SCOTT RD,,,2409
+387,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212071,JONESBORO RD/CONLEY RD,1,,2409
+388,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212072,JONESBORO RD/COLLEGE ST,,2,2409
+389,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212073,JONESBORO RD/ERNEST DR,,,2409
+390,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212074,JONESBORO RD/OLD JONESBORO RD,,,2409
+391,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,139050,JONESBORO RD SE/WHATLEY ST SE,,1,2409
+392,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,102148,MITCHELL ST SW/PRYOR ST SW,,,2409
+393,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,102150,CAPITOL SQ SW/CAPITOL PL SW,,,2409
+394,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125060,MCDONOUGH BLVD SE/MARCY ST SE,,,2409
+395,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,139008,JONESBORO RD SE/JORDAN ST SE,,,2409
+396,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,102262,MITCHELL ST SW/CENTRAL AVE SW,,,2409
+397,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115172,HANK AARON DR/VANIRA AVE SE,,,2409
+398,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125067,JONESBORO RD SE/THIRKIELD AVE SE,,,2409
+399,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159246,HUTCHENS RD SE/JONESBORO RD SE,1,2,2409
+400,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,102270,BROAD ST/ALABAMA ST (FIVE POINTS STATION),22,,2409
+401,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159272,JONESBORO RD SE/SPRINGSIDE DR SE,,,2409
+402,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159274,JONESBORO RD SE/SPRINGSIDE DR,,,2409
+403,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125028,WEYMAN AVE SW/RIDGE AVE SW,,3,2409
+404,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125070,JONESBORO RD SE/MELDON AVE SE,,,2409
+405,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125072,JONESBORO RD SE/MOURY AVE SE,,,2409
+406,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125244,WEYMAN AVE/HANK AARON DR,,,2409
+407,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,138006,JONESBORO RD SE/LETHEA ST SE,,,2409
+408,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,139012,BROWNS MILL RD SE/ADELLE ST SE,,2,2409
+409,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,139014,BROWNS MILL RD SE/2039,,,2409
+410,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115204,HANK AARON DR SW/LITTLE ST SE,,,2409
+411,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115176,HANK AARON DR/964,,,2409
+412,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,150069,JONESBORO RD SE/CLEVELAND AVE SE,1,,2409
+413,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115164,HANK AARON DR/ORMOND ST SE,,,2409
+414,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115192,HANK AARON DR/RALPH D ABERNATHY BLVD,,2,2409
+415,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115168,HANK AARON DR/ATLANTA AVE SE,,1,2409
+416,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125030,RIDGE AVE SW/PULLIAM ST,,2,2409
+417,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115194,CAPITOL AVE/FULTON ST,,,2409
+418,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125062,MCDONOUGH BLVD SE/JONESBORO RD SE,,,2409
+419,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125064,JONESBORO RD SE/GAMMON AVE SE,1,,2409
+420,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125066,JONESBORO RD SE/MARTIN AVE SE,,,2409
+421,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,139010,BROWNS MILL RD SE/LAQUITA DR SE,,2,2409
+422,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159276,JONESBORO RD SE/2961,,1,2409
+423,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,150010,JONESBORO RD SE/MIDWAY ST SE,,,2409
+424,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159254,HUTCHENS RD SE/DONNEBROOK LN SE,,,2409
+425,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159250,HUTCHENS RD SE/565,,,2409
+426,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159252,HUTCHENS RD SE/KING SMITH RD SE,,,2409
+427,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115180,HANK AARON DR SW/HAYGOOD AVE SW,,,2409
+428,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,115222,HANK AARON DR SW/BILL LUCAS DR SW,,,2409
+429,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,125068,JONESBORO RD SE/BROWN AVE SE,,,2409
+430,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,159410,HUTCHENS RD/KATOMARICK DR,,,2409
+431,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212075,JONESBORO RD/GRACE DR,2,1,2409
+432,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212076,JONESBORO RD/FOREST AVE,,,2409
+433,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212077,JONESBORO RD/MARIE ST,,,2409
+434,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212204,HUTCHENS RD SE/860,,,2409
+435,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167002,HUTCHENS RD/FORREST PARK RD,,,2409
+436,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167004,FORREST PARK RD SE/PINE FOREST DR,,2,2409
+437,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167006,FORREST PARK RD SE/EISENHOWER RD SE,,,2409
+438,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167008,FORREST PARK RD SE/HENDON RD,,,2409
+439,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167010,FORREST PARK RD SE/FOREST VALLEY DR,,,2409
+440,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167012,CONLEY RD SE/900,,,2409
+441,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212352,FOREST PKY/ASH ST,,,2409
+442,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212353,FOREST PKY/BARTLETT DR,,3,2409
+443,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212581,FOREST PKY/MAPLE DR,,,2409
+444,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167016,CONLEY RD SE/JONESBORO RD SE,0,0,2409
+445,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,167034,FORREST PARK RD/CONLEY RD,,1,2409
+446,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,210010,HUTCHENS RD/860,,,2409
+447,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212584,MAIN ST/JONESBORO RD,2,,2409
+448,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212585,MAIN ST/PHILLIPS DR,,2,2409
+449,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212586,MAIN ST/COLLEGE ST,1,,2409
+450,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212675,JONESBORO RD SE/HARPER RD SE,,,2409
+451,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212835,JONESBORO RD SE/CLAIRE DR SE,,1,2409
+452,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,210601,BROWNS MILL RD/HARPER RD,,,2409
+453,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211148,HANK AARON DR SE/BASS ST SE,,,2409
+454,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211169,UNIVERSITY AVE SW/71,,,2409
+455,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211194,JONESBORO RD SE/CONSTITUTION RD SE,1,1,2409
+456,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211206,BROWNS MILL RD SE/GREENDALE DR SE,,,2409
+457,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211225,HUTCHENS RD SE/916,,,2409
+458,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211309,UNIVERSITY AVE SW/PRYOR RD SW,,,2409
+459,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211406,HARPER RD SE/BURROUGHS AVE SE,,,2409
+460,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211407,JONESBORO RD SE/MCWILLIAMS RD SE,1,,2409
+461,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,901265,PEACHTREE ST/MARTIN L KING JR DR,,,2409
+462,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,211650,JONESBORO RD SE/2491,,,2409
+463,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212069,JONESBORO RD/RUSKIN DR,,1,2409
+464,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212070,JONESBORO RD/SCOTT RD,,,2409
+465,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212071,JONESBORO RD/CONLEY RD,,2,2409
+466,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212072,JONESBORO RD/COLLEGE ST,,1,2409
+467,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212073,JONESBORO RD/ERNEST DR,,1,2409
+468,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Southbound,212074,JONESBORO RD/OLD JONESBORO RD,,,2409
+469,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,139022,JONESBORO RD SE/SOUTHBEND AVE SE,,,2409
+470,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125003,WEYMAN AVE SW/RIDGE AVE SW,,,2409
+471,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125004,WEYMAN AVE SW/HANK AARON DR SW,,,2409
+472,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125046,JONESBORO RD SE/MCDONOUGH BLVD SE,,,2409
+473,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125048,MCDONOUGH BLVD SE/MARCY ST SE,,,2409
+474,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150034,JONESBORO RD SE/HARPER RD SE,,,2409
+475,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102062,MARTIN LUTHER KING J DR SW/PRYOR ST,,,2409
+476,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102152,MARTIN L KING J DR/COURTLAND ST,,4,2409
+477,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102270,BROAD ST/ALABAMA ST (FIVE POINTS STATION),,26,2409
+478,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115174,HANK AARON DR/VANIRA AVE SE,,,2409
+479,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102156,MARTIN L KING JR DR/PEACHTREE ST,,5,2409
+480,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102252,HANK AARON DR SE/FULTON ST SE,,,2409
+481,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115082,HANK AARON DR SE/GEORGIA AVE SE,,,2409
+482,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115186,HANK AARON DR/BASS ST,1,,2409
+483,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115188,HANK AARON DR/BILL LUCAS DR SE,,,2409
+484,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115190,HANK AARON DR SW/LITTLE ST SE,,,2409
+485,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,139016,BROWNS MILL RD SE/MERRILYN DR SE,,,2409
+486,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,139018,BROWNS MILL RD SE/ADELLE ST SE,,,2409
+487,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,139054,JONESBORO RD/WHATLEY ST,2,1,2409
+488,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115160,PRYOR RD SW/RIDGE AVE SW,1,,2409
+489,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150036,HARPER RD SE/BURROUGHS AVE SE,,,2409
+490,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,138106,JONESBORO RD/LAKEWOOD AVE,3,,2409
+491,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115178,HANK AARON DR/955,,,2409
+492,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,138002,JONESBORO RD SE/LETHEA ST SE,1,,2409
+493,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150154,JONESBORO RD SE/CLEVELAND AVE SE,,7,2409
+494,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115166,HANK AARON DR/ORMOND ST SE,2,,2409
+495,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125040,JONESBORO RD SE/MILLER REED AVE SE,,,2409
+496,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125042,JONESBORO RD SE/HARRIETT ST SE,,,2409
+497,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125043,JONESBORO RD SE/BISBEE AVE SE,,1,2409
+498,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115182,HANK AARON DR SW/HAYGOOD AVE SW,3,,2409
+499,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,138004,JONESBORO RD SE/MARGARET ST SE,1,,2409
+500,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115170,HANK AARON DR/ATLANTA AVE SE,0,0,2409
+501,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150028,JONESBORO RD SE/MIDWAY ST SE,,,2409
+502,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150030,JONESBORO RD SE/2267,,,2409
+503,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150032,JONESBORO RD SE/CONSTITUTION RD SE,,,2409
+504,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,159084,JONESBORO RD SE/2980,2,,2409
+505,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102253,CAPITOL AVE/MEMORIAL DR,,,2409
+506,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125002,RIDGE AVE SW/PULLIAM ST SW,1,,2409
+507,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,138005,JONESBORO RD SE/MOURY AVE SE,1,,2409
+508,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,139020,BROWNS MILL RD SE/JONESBORO RD SE,,,2409
+509,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212083,JONESBORO RD/BARTLETT RD,,,2409
+510,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212084,JONESBORO RD/WATTS RD,2,,2409
+511,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212085,JONESBORO RD/GRACE DR,2,1,2409
+512,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212086,JONESBORO RD/OLD JONESBORO RD,1,,2409
+513,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212087,JONESBORO RD/ERNEST DR,,,2409
+514,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212088,JONESBORO RD/THURMAN RD,,,2409
+515,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212089,JONESBORO RD/CONLEY RD,4,,2409
+516,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212090,JONESBORO RD/SCOTT RD,1,1,2409
+517,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212091,JONESBORO RD/RUSKIN DR,,,2409
+518,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212194,JONESBORO RD SE/CONLEY RD SE,2,,2409
+519,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212195,CONLEY RD SE/925,1,,2409
+520,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212196,FORREST PARK RD SE/CONLEY RD SE,1,,2409
+521,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212197,FORREST PARK RD SE/FOREST VALLEY DR SE,,,2409
+522,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212198,FORREST PARK RD SE/OAKSHIRE WAY SE,,,2409
+523,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212199,FORREST PARK RD SE/EISENHOWER RD SE,,2,2409
+524,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212200,FORREST PARK RD SE/PINE FOREST DR SE,5,,2409
+525,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212201,HUTCHENS RD SE/FORREST PARK RD SE,,,2409
+526,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212202,HUTCHENS RD SE/916,,,2409
+527,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,907703,JONESBORO RD/2640,,1,2409
+528,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212203,HUTCHENS RD SE/852,,,2409
+529,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212205,HUTCHENS RD SE/KATOMARICK DR SE,,,2409
+530,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212206,HUTCHENS RD SE/DONNEBROOK LN SE,1,,2409
+531,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212207,HUTCHENS RD SE/KING SMITH RD SE,1,,2409
+532,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212208,HUTCHENS RD SE/560,,,2409
+533,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212209,HUTCHENS RD SE/JONESBORO RD SE,,,2409
+534,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212353,FOREST PKY/BARTLETT DR,2,,2409
+535,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212582,JONESBORO RD/METCALF RD,,,2409
+536,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212583,JONESBORO RD/MAIN ST,1,,2409
+537,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212834,JONESBORO RD SE/SAWTELL AVE SE,5,,2409
+538,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,210596,UNIVERSITY AVE/PRYOR RD,1,1,2409
+539,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211170,UNIVERSITY AVE SW/71,,,2409
+540,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211405,HARPER RD SE/BROWNS MILL RD SE,,,2409
+541,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211408,JONESBORO RD SE/MCWILLIAMS RD SE,1,,2409
+542,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211558,JONESBORO RD SE/SPRINGSIDE DR,,,2409
+543,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211559,JONESBORO RD SE/2920,,,2409
+544,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211592,HARPER RD SE/JERNIGAN DR SE,1,,2409
+545,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211594,BROWNS MILL RD SE/2045,,,2409
+546,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211649,JONESBORO RD SE/2520,,,2409
+547,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,139022,JONESBORO RD SE/SOUTHBEND AVE SE,1,,2409
+548,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150032,JONESBORO RD SE/CONSTITUTION RD SE,,,2409
+549,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125003,WEYMAN AVE SW/RIDGE AVE SW,,,2409
+550,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125004,WEYMAN AVE SW/HANK AARON DR SW,,,2409
+551,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125046,JONESBORO RD SE/MCDONOUGH BLVD SE,,,2409
+552,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125048,MCDONOUGH BLVD SE/MARCY ST SE,,,2409
+553,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102062,MARTIN LUTHER KING J DR SW/PRYOR ST,,3,2409
+554,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102152,MARTIN L KING J DR/COURTLAND ST,,2,2409
+555,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115174,HANK AARON DR/VANIRA AVE SE,,,2409
+556,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102156,MARTIN L KING JR DR/PEACHTREE ST,,,2409
+557,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102252,HANK AARON DR SE/FULTON ST SE,2,,2409
+558,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102270,BROAD ST/ALABAMA ST (FIVE POINTS STATION),,20,2409
+559,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115082,HANK AARON DR SE/GEORGIA AVE SE,,,2409
+560,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115186,HANK AARON DR/BASS ST,,,2409
+561,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115188,HANK AARON DR/BILL LUCAS DR SE,,,2409
+562,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115190,HANK AARON DR SW/LITTLE ST SE,,,2409
+563,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,139016,BROWNS MILL RD SE/MERRILYN DR SE,,,2409
+564,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,139018,BROWNS MILL RD SE/ADELLE ST SE,,,2409
+565,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,139054,JONESBORO RD/WHATLEY ST,1,1,2409
+566,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150034,JONESBORO RD SE/HARPER RD SE,,,2409
+567,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115160,PRYOR RD SW/RIDGE AVE SW,,,2409
+568,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150036,HARPER RD SE/BURROUGHS AVE SE,,,2409
+569,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,138106,JONESBORO RD/LAKEWOOD AVE,3,,2409
+570,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115178,HANK AARON DR/955,,,2409
+571,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,138002,JONESBORO RD SE/LETHEA ST SE,,,2409
+572,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150154,JONESBORO RD SE/CLEVELAND AVE SE,,2,2409
+573,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115166,HANK AARON DR/ORMOND ST SE,1,,2409
+574,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125040,JONESBORO RD SE/MILLER REED AVE SE,,,2409
+575,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125042,JONESBORO RD SE/HARRIETT ST SE,,,2409
+576,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125043,JONESBORO RD SE/BISBEE AVE SE,,,2409
+577,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115182,HANK AARON DR SW/HAYGOOD AVE SW,1,,2409
+578,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,138004,JONESBORO RD SE/MARGARET ST SE,,,2409
+579,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115170,HANK AARON DR/ATLANTA AVE SE,0,0,2409
+580,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150028,JONESBORO RD SE/MIDWAY ST SE,,,2409
+581,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150030,JONESBORO RD SE/2267,,,2409
+582,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,159084,JONESBORO RD SE/2980,4,,2409
+583,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102253,CAPITOL AVE/MEMORIAL DR,,,2409
+584,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125002,RIDGE AVE SW/PULLIAM ST SW,,,2409
+585,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,138005,JONESBORO RD SE/MOURY AVE SE,,,2409
+586,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,139020,BROWNS MILL RD SE/JONESBORO RD SE,,,2409
+587,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212083,JONESBORO RD/BARTLETT RD,2,,2409
+588,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212084,JONESBORO RD/WATTS RD,3,,2409
+589,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212085,JONESBORO RD/GRACE DR,,,2409
+590,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212086,JONESBORO RD/OLD JONESBORO RD,1,,2409
+591,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212087,JONESBORO RD/ERNEST DR,,,2409
+592,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212088,JONESBORO RD/THURMAN RD,1,,2409
+593,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212089,JONESBORO RD/CONLEY RD,3,2,2409
+594,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212090,JONESBORO RD/SCOTT RD,,,2409
+595,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212091,JONESBORO RD/RUSKIN DR,1,,2409
+596,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212194,JONESBORO RD SE/CONLEY RD SE,1,,2409
+597,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212195,CONLEY RD SE/925,,,2409
+598,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212196,FORREST PARK RD SE/CONLEY RD SE,,,2409
+599,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212197,FORREST PARK RD SE/FOREST VALLEY DR SE,,,2409
+600,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212198,FORREST PARK RD SE/OAKSHIRE WAY SE,,,2409
+601,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212199,FORREST PARK RD SE/EISENHOWER RD SE,,1,2409
+602,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212200,FORREST PARK RD SE/PINE FOREST DR SE,,,2409
+603,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212201,HUTCHENS RD SE/FORREST PARK RD SE,,,2409
+604,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212202,HUTCHENS RD SE/916,,,2409
+605,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,907703,JONESBORO RD/2640,,,2409
+606,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212203,HUTCHENS RD SE/852,,,2409
+607,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212205,HUTCHENS RD SE/KATOMARICK DR SE,,,2409
+608,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212206,HUTCHENS RD SE/DONNEBROOK LN SE,,,2409
+609,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212207,HUTCHENS RD SE/KING SMITH RD SE,,,2409
+610,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212208,HUTCHENS RD SE/560,,,2409
+611,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212209,HUTCHENS RD SE/JONESBORO RD SE,2,,2409
+612,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212353,FOREST PKY/BARTLETT DR,1,,2409
+613,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212582,JONESBORO RD/METCALF RD,1,,2409
+614,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212583,JONESBORO RD/MAIN ST,,,2409
+615,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212834,JONESBORO RD SE/SAWTELL AVE SE,1,,2409
+616,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,210596,UNIVERSITY AVE/PRYOR RD,1,,2409
+617,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211170,UNIVERSITY AVE SW/71,,,2409
+618,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211405,HARPER RD SE/BROWNS MILL RD SE,,,2409
+619,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211408,JONESBORO RD SE/MCWILLIAMS RD SE,,,2409
+620,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211558,JONESBORO RD SE/SPRINGSIDE DR,,,2409
+621,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211559,JONESBORO RD SE/2920,,,2409
+622,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211592,HARPER RD SE/JERNIGAN DR SE,,,2409
+623,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211594,BROWNS MILL RD SE/2045,,,2409
+624,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211649,JONESBORO RD SE/2520,,,2409
+625,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,139022,JONESBORO RD SE/SOUTHBEND AVE SE,2,,2409
+626,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150032,JONESBORO RD SE/CONSTITUTION RD SE,,,2409
+627,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125003,WEYMAN AVE SW/RIDGE AVE SW,,,2409
+628,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125004,WEYMAN AVE SW/HANK AARON DR SW,,,2409
+629,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125046,JONESBORO RD SE/MCDONOUGH BLVD SE,2,,2409
+630,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125048,MCDONOUGH BLVD SE/MARCY ST SE,,,2409
+631,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102062,MARTIN LUTHER KING J DR SW/PRYOR ST,,,2409
+632,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102152,MARTIN L KING J DR/COURTLAND ST,,,2409
+633,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102156,MARTIN L KING JR DR/PEACHTREE ST,,,2409
+634,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102270,BROAD ST/ALABAMA ST (FIVE POINTS STATION),,25,2409
+635,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115082,HANK AARON DR SE/GEORGIA AVE SE,,1,2409
+636,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115186,HANK AARON DR/BASS ST,,,2409
+637,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115188,HANK AARON DR/BILL LUCAS DR SE,,,2409
+638,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115190,HANK AARON DR SW/LITTLE ST SE,,1,2409
+639,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,139016,BROWNS MILL RD SE/MERRILYN DR SE,,,2409
+640,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,139018,BROWNS MILL RD SE/ADELLE ST SE,,,2409
+641,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150034,JONESBORO RD SE/HARPER RD SE,,,2409
+642,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150036,HARPER RD SE/BURROUGHS AVE SE,,,2409
+643,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102252,HANK AARON DR SE/FULTON ST SE,,1,2409
+644,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,138106,JONESBORO RD/LAKEWOOD AVE,4,,2409
+645,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115174,HANK AARON DR/VANIRA AVE SE,,,2409
+646,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,138002,JONESBORO RD SE/LETHEA ST SE,,1,2409
+647,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150154,JONESBORO RD SE/CLEVELAND AVE SE,2,2,2409
+648,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115160,PRYOR RD SW/RIDGE AVE SW,1,,2409
+649,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,139054,JONESBORO RD/WHATLEY ST,,,2409
+650,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115166,HANK AARON DR/ORMOND ST SE,,,2409
+651,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125040,JONESBORO RD SE/MILLER REED AVE SE,,,2409
+652,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125042,JONESBORO RD SE/HARRIETT ST SE,,,2409
+653,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125043,JONESBORO RD SE/BISBEE AVE SE,,,2409
+654,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115178,HANK AARON DR/955,,,2409
+655,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115182,HANK AARON DR SW/HAYGOOD AVE SW,,,2409
+656,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,138004,JONESBORO RD SE/MARGARET ST SE,1,,2409
+657,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115170,HANK AARON DR/ATLANTA AVE SE,3,,2409
+658,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150028,JONESBORO RD SE/MIDWAY ST SE,,,2409
+659,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150030,JONESBORO RD SE/2267,,,2409
+660,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,159084,JONESBORO RD SE/2980,,,2409
+661,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102253,CAPITOL AVE/MEMORIAL DR,,,2409
+662,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125002,RIDGE AVE SW/PULLIAM ST SW,1,,2409
+663,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,138005,JONESBORO RD SE/MOURY AVE SE,2,,2409
+664,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,139020,BROWNS MILL RD SE/JONESBORO RD SE,,,2409
+665,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212083,JONESBORO RD/BARTLETT RD,,1,2409
+666,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212084,JONESBORO RD/WATTS RD,1,,2409
+667,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212085,JONESBORO RD/GRACE DR,1,,2409
+668,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212086,JONESBORO RD/OLD JONESBORO RD,1,1,2409
+669,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212087,JONESBORO RD/ERNEST DR,1,,2409
+670,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212088,JONESBORO RD/THURMAN RD,1,,2409
+671,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212089,JONESBORO RD/CONLEY RD,,,2409
+672,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212090,JONESBORO RD/SCOTT RD,,,2409
+673,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212091,JONESBORO RD/RUSKIN DR,2,,2409
+674,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212194,JONESBORO RD SE/CONLEY RD SE,0,0,2409
+675,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212195,CONLEY RD SE/925,1,1,2409
+676,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212196,FORREST PARK RD SE/CONLEY RD SE,3,,2409
+677,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212197,FORREST PARK RD SE/FOREST VALLEY DR SE,,,2409
+678,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212198,FORREST PARK RD SE/OAKSHIRE WAY SE,,,2409
+679,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212199,FORREST PARK RD SE/EISENHOWER RD SE,,,2409
+680,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212200,FORREST PARK RD SE/PINE FOREST DR SE,,1,2409
+681,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212201,HUTCHENS RD SE/FORREST PARK RD SE,,,2409
+682,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212202,HUTCHENS RD SE/916,,,2409
+683,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,907703,JONESBORO RD/2640,,,2409
+684,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212203,HUTCHENS RD SE/852,,,2409
+685,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212205,HUTCHENS RD SE/KATOMARICK DR SE,,,2409
+686,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212206,HUTCHENS RD SE/DONNEBROOK LN SE,,,2409
+687,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212207,HUTCHENS RD SE/KING SMITH RD SE,,,2409
+688,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212208,HUTCHENS RD SE/560,,,2409
+689,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212209,HUTCHENS RD SE/JONESBORO RD SE,,1,2409
+690,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212353,FOREST PKY/BARTLETT DR,2,,2409
+691,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212582,JONESBORO RD/METCALF RD,1,,2409
+692,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212583,JONESBORO RD/MAIN ST,,,2409
+693,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212834,JONESBORO RD SE/SAWTELL AVE SE,,,2409
+694,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,210596,UNIVERSITY AVE/PRYOR RD,3,,2409
+695,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211170,UNIVERSITY AVE SW/71,,,2409
+696,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211405,HARPER RD SE/BROWNS MILL RD SE,,,2409
+697,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211408,JONESBORO RD SE/MCWILLIAMS RD SE,1,,2409
+698,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211558,JONESBORO RD SE/SPRINGSIDE DR,,,2409
+699,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211559,JONESBORO RD SE/2920,,,2409
+700,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211592,HARPER RD SE/JERNIGAN DR SE,,,2409
+701,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211594,BROWNS MILL RD SE/2045,,,2409
+702,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211649,JONESBORO RD SE/2520,,,2409
+703,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150032,JONESBORO RD SE/CONSTITUTION RD SE,1,,2409
+704,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125003,WEYMAN AVE SW/RIDGE AVE SW,,,2409
+705,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125046,JONESBORO RD SE/MCDONOUGH BLVD SE,,,2409
+706,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125048,MCDONOUGH BLVD SE/MARCY ST SE,,,2409
+707,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102062,MARTIN LUTHER KING J DR SW/PRYOR ST,,,2409
+708,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102152,MARTIN L KING J DR/COURTLAND ST,,,2409
+709,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102156,MARTIN L KING JR DR/PEACHTREE ST,,2,2409
+710,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102270,BROAD ST/ALABAMA ST (FIVE POINTS STATION),,13,2409
+711,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115082,HANK AARON DR SE/GEORGIA AVE SE,1,1,2409
+712,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115182,HANK AARON DR SW/HAYGOOD AVE SW,,,2409
+713,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115186,HANK AARON DR/BASS ST,,,2409
+714,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115188,HANK AARON DR/BILL LUCAS DR SE,,,2409
+715,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115190,HANK AARON DR SW/LITTLE ST SE,,,2409
+716,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,139016,BROWNS MILL RD SE/MERRILYN DR SE,,,2409
+717,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125004,WEYMAN AVE SW/HANK AARON DR SW,,,2409
+718,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150034,JONESBORO RD SE/HARPER RD SE,,,2409
+719,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150036,HARPER RD SE/BURROUGHS AVE SE,,,2409
+720,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102252,HANK AARON DR SE/FULTON ST SE,,,2409
+721,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,138106,JONESBORO RD/LAKEWOOD AVE,,1,2409
+722,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115174,HANK AARON DR/VANIRA AVE SE,,,2409
+723,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,138002,JONESBORO RD SE/LETHEA ST SE,,,2409
+724,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,139022,JONESBORO RD SE/SOUTHBEND AVE SE,,,2409
+725,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150154,JONESBORO RD SE/CLEVELAND AVE SE,0,0,2409
+726,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115160,PRYOR RD SW/RIDGE AVE SW,,,2409
+727,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,139054,JONESBORO RD/WHATLEY ST,,1,2409
+728,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115166,HANK AARON DR/ORMOND ST SE,3,,2409
+729,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125040,JONESBORO RD SE/MILLER REED AVE SE,,,2409
+730,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125042,JONESBORO RD SE/HARRIETT ST SE,,,2409
+731,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125043,JONESBORO RD SE/BISBEE AVE SE,,,2409
+732,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115178,HANK AARON DR/955,,,2409
+733,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,138004,JONESBORO RD SE/MARGARET ST SE,,,2409
+734,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,139018,BROWNS MILL RD SE/ADELLE ST SE,,,2409
+735,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115170,HANK AARON DR/ATLANTA AVE SE,0,0,2409
+736,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150028,JONESBORO RD SE/MIDWAY ST SE,,,2409
+737,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150030,JONESBORO RD SE/2267,,,2409
+738,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,159084,JONESBORO RD SE/2980,1,,2409
+739,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102253,CAPITOL AVE/MEMORIAL DR,1,,2409
+740,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125002,RIDGE AVE SW/PULLIAM ST SW,,,2409
+741,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,138005,JONESBORO RD SE/MOURY AVE SE,,,2409
+742,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,139020,BROWNS MILL RD SE/JONESBORO RD SE,,,2409
+743,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212083,JONESBORO RD/BARTLETT RD,1,,2409
+744,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212084,JONESBORO RD/WATTS RD,1,,2409
+745,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212085,JONESBORO RD/GRACE DR,,,2409
+746,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212086,JONESBORO RD/OLD JONESBORO RD,,,2409
+747,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212087,JONESBORO RD/ERNEST DR,,,2409
+748,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212088,JONESBORO RD/THURMAN RD,,,2409
+749,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212089,JONESBORO RD/CONLEY RD,2,2,2409
+750,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212090,JONESBORO RD/SCOTT RD,1,,2409
+751,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212091,JONESBORO RD/RUSKIN DR,1,,2409
+752,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212194,JONESBORO RD SE/CONLEY RD SE,1,,2409
+753,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212195,CONLEY RD SE/925,,2,2409
+754,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212196,FORREST PARK RD SE/CONLEY RD SE,,,2409
+755,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212197,FORREST PARK RD SE/FOREST VALLEY DR SE,,,2409
+756,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212198,FORREST PARK RD SE/OAKSHIRE WAY SE,,1,2409
+757,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212199,FORREST PARK RD SE/EISENHOWER RD SE,,,2409
+758,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212200,FORREST PARK RD SE/PINE FOREST DR SE,,,2409
+759,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212201,HUTCHENS RD SE/FORREST PARK RD SE,,,2409
+760,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,907703,JONESBORO RD/2640,,,2409
+761,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212203,HUTCHENS RD SE/852,,,2409
+762,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212205,HUTCHENS RD SE/KATOMARICK DR SE,,,2409
+763,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212202,HUTCHENS RD SE/916,,,2409
+764,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212206,HUTCHENS RD SE/DONNEBROOK LN SE,,,2409
+765,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212207,HUTCHENS RD SE/KING SMITH RD SE,,,2409
+766,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212208,HUTCHENS RD SE/560,,,2409
+767,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212209,HUTCHENS RD SE/JONESBORO RD SE,,1,2409
+768,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212353,FOREST PKY/BARTLETT DR,3,,2409
+769,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212582,JONESBORO RD/METCALF RD,,,2409
+770,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212583,JONESBORO RD/MAIN ST,,,2409
+771,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212834,JONESBORO RD SE/SAWTELL AVE SE,,,2409
+772,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,210596,UNIVERSITY AVE/PRYOR RD,1,,2409
+773,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211170,UNIVERSITY AVE SW/71,,,2409
+774,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211405,HARPER RD SE/BROWNS MILL RD SE,4,,2409
+775,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211408,JONESBORO RD SE/MCWILLIAMS RD SE,,,2409
+776,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211558,JONESBORO RD SE/SPRINGSIDE DR,,,2409
+777,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211559,JONESBORO RD SE/2920,,,2409
+778,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211592,HARPER RD SE/JERNIGAN DR SE,1,,2409
+779,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211594,BROWNS MILL RD SE/2045,,,2409
+780,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211649,JONESBORO RD SE/2520,1,,2409
+781,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150032,JONESBORO RD SE/CONSTITUTION RD SE,,,2409
+782,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150154,JONESBORO RD SE/CLEVELAND AVE SE,1,3,2409
+783,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125002,RIDGE AVE SW/PULLIAM ST SW,,,2409
+784,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125003,WEYMAN AVE SW/RIDGE AVE SW,,,2409
+785,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125046,JONESBORO RD SE/MCDONOUGH BLVD SE,,,2409
+786,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125048,MCDONOUGH BLVD SE/MARCY ST SE,,,2409
+787,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102062,MARTIN LUTHER KING J DR SW/PRYOR ST,,,2409
+788,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115170,HANK AARON DR/ATLANTA AVE SE,1,,2409
+789,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102152,MARTIN L KING J DR/COURTLAND ST,,1,2409
+790,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102156,MARTIN L KING JR DR/PEACHTREE ST,,1,2409
+791,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102270,BROAD ST/ALABAMA ST (FIVE POINTS STATION),,9,2409
+792,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115182,HANK AARON DR SW/HAYGOOD AVE SW,,,2409
+793,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115186,HANK AARON DR/BASS ST,,,2409
+794,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115188,HANK AARON DR/BILL LUCAS DR SE,,,2409
+795,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,139016,BROWNS MILL RD SE/MERRILYN DR SE,,,2409
+796,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115082,HANK AARON DR SE/GEORGIA AVE SE,,,2409
+797,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115190,HANK AARON DR SW/LITTLE ST SE,,,2409
+798,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125004,WEYMAN AVE SW/HANK AARON DR SW,,,2409
+799,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150034,JONESBORO RD SE/HARPER RD SE,,,2409
+800,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150036,HARPER RD SE/BURROUGHS AVE SE,1,,2409
+801,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,138106,JONESBORO RD/LAKEWOOD AVE,1,,2409
+802,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115174,HANK AARON DR/VANIRA AVE SE,1,,2409
+803,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,138002,JONESBORO RD SE/LETHEA ST SE,,,2409
+804,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,139022,JONESBORO RD SE/SOUTHBEND AVE SE,,,2409
+805,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115160,PRYOR RD SW/RIDGE AVE SW,,,2409
+806,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,139054,JONESBORO RD/WHATLEY ST,1,1,2409
+807,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115166,HANK AARON DR/ORMOND ST SE,,,2409
+808,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125040,JONESBORO RD SE/MILLER REED AVE SE,,,2409
+809,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125042,JONESBORO RD SE/HARRIETT ST SE,,,2409
+810,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125043,JONESBORO RD SE/BISBEE AVE SE,,,2409
+811,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115178,HANK AARON DR/955,,,2409
+812,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150028,JONESBORO RD SE/MIDWAY ST SE,,,2409
+813,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150030,JONESBORO RD SE/2267,,,2409
+814,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,159084,JONESBORO RD SE/2980,,1,2409
+815,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102252,HANK AARON DR SE/FULTON ST SE,,,2409
+816,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102253,CAPITOL AVE/MEMORIAL DR,,,2409
+817,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,138004,JONESBORO RD SE/MARGARET ST SE,,,2409
+818,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,138005,JONESBORO RD SE/MOURY AVE SE,,,2409
+819,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,139018,BROWNS MILL RD SE/ADELLE ST SE,,,2409
+820,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,139020,BROWNS MILL RD SE/JONESBORO RD SE,,1,2409
+821,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212083,JONESBORO RD/BARTLETT RD,,,2409
+822,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212084,JONESBORO RD/WATTS RD,1,,2409
+823,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212085,JONESBORO RD/GRACE DR,2,,2409
+824,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212086,JONESBORO RD/OLD JONESBORO RD,,,2409
+825,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212087,JONESBORO RD/ERNEST DR,1,,2409
+826,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212088,JONESBORO RD/THURMAN RD,,,2409
+827,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212089,JONESBORO RD/CONLEY RD,1,,2409
+828,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212090,JONESBORO RD/SCOTT RD,,,2409
+829,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212091,JONESBORO RD/RUSKIN DR,2,,2409
+830,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212194,JONESBORO RD SE/CONLEY RD SE,0,0,2409
+831,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212195,CONLEY RD SE/925,,,2409
+832,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212196,FORREST PARK RD SE/CONLEY RD SE,,,2409
+833,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212197,FORREST PARK RD SE/FOREST VALLEY DR SE,,,2409
+834,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212198,FORREST PARK RD SE/OAKSHIRE WAY SE,,1,2409
+835,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212199,FORREST PARK RD SE/EISENHOWER RD SE,,,2409
+836,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212200,FORREST PARK RD SE/PINE FOREST DR SE,,,2409
+837,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212201,HUTCHENS RD SE/FORREST PARK RD SE,,,2409
+838,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,907703,JONESBORO RD/2640,,,2409
+839,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212202,HUTCHENS RD SE/916,2,,2409
+840,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212203,HUTCHENS RD SE/852,,,2409
+841,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212205,HUTCHENS RD SE/KATOMARICK DR SE,,,2409
+842,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212206,HUTCHENS RD SE/DONNEBROOK LN SE,,,2409
+843,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212207,HUTCHENS RD SE/KING SMITH RD SE,,,2409
+844,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212208,HUTCHENS RD SE/560,,,2409
+845,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212209,HUTCHENS RD SE/JONESBORO RD SE,,,2409
+846,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212353,FOREST PKY/BARTLETT DR,2,,2409
+847,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212582,JONESBORO RD/METCALF RD,1,,2409
+848,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212583,JONESBORO RD/MAIN ST,,,2409
+849,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212834,JONESBORO RD SE/SAWTELL AVE SE,,,2409
+850,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,210596,UNIVERSITY AVE/PRYOR RD,,1,2409
+851,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211170,UNIVERSITY AVE SW/71,,,2409
+852,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211405,HARPER RD SE/BROWNS MILL RD SE,,,2409
+853,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211408,JONESBORO RD SE/MCWILLIAMS RD SE,1,,2409
+854,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211558,JONESBORO RD SE/SPRINGSIDE DR,,,2409
+855,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211559,JONESBORO RD SE/2920,,,2409
+856,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211592,HARPER RD SE/JERNIGAN DR SE,,,2409
+857,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211594,BROWNS MILL RD SE/2045,,,2409
+858,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211649,JONESBORO RD SE/2520,,,2409
+859,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,139022,JONESBORO RD SE/SOUTHBEND AVE SE,1,,2409
+860,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,139016,BROWNS MILL RD SE/MERRILYN DR SE,,,2409
+861,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125003,WEYMAN AVE SW/RIDGE AVE SW,,,2409
+862,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125004,WEYMAN AVE SW/HANK AARON DR SW,,,2409
+863,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125048,MCDONOUGH BLVD SE/MARCY ST SE,2,,2409
+864,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150034,JONESBORO RD SE/HARPER RD SE,,,2409
+865,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102062,MARTIN LUTHER KING J DR SW/PRYOR ST,,,2409
+866,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102152,MARTIN L KING J DR/COURTLAND ST,,2,2409
+867,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102270,BROAD ST/ALABAMA ST (FIVE POINTS STATION),,26,2409
+868,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115174,HANK AARON DR/VANIRA AVE SE,,,2409
+869,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102156,MARTIN L KING JR DR/PEACHTREE ST,,1,2409
+870,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102252,HANK AARON DR SE/FULTON ST SE,,,2409
+871,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115082,HANK AARON DR SE/GEORGIA AVE SE,1,,2409
+872,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115186,HANK AARON DR/BASS ST,,,2409
+873,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115188,HANK AARON DR/BILL LUCAS DR SE,1,,2409
+874,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115190,HANK AARON DR SW/LITTLE ST SE,,,2409
+875,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,139018,BROWNS MILL RD SE/ADELLE ST SE,,,2409
+876,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,139054,JONESBORO RD/WHATLEY ST,,1,2409
+877,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115160,PRYOR RD SW/RIDGE AVE SW,1,,2409
+878,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150036,HARPER RD SE/BURROUGHS AVE SE,,,2409
+879,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,138106,JONESBORO RD/LAKEWOOD AVE,,,2409
+880,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115178,HANK AARON DR/955,,,2409
+881,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,138002,JONESBORO RD SE/LETHEA ST SE,1,,2409
+882,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150154,JONESBORO RD SE/CLEVELAND AVE SE,1,,2409
+883,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115166,HANK AARON DR/ORMOND ST SE,7,,2409
+884,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125040,JONESBORO RD SE/MILLER REED AVE SE,,,2409
+885,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125042,JONESBORO RD SE/HARRIETT ST SE,1,,2409
+886,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125043,JONESBORO RD SE/BISBEE AVE SE,1,,2409
+887,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125046,JONESBORO RD SE/MCDONOUGH BLVD SE,1,,2409
+888,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115182,HANK AARON DR SW/HAYGOOD AVE SW,2,,2409
+889,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,138004,JONESBORO RD SE/MARGARET ST SE,,,2409
+890,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,115170,HANK AARON DR/ATLANTA AVE SE,1,,2409
+891,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150028,JONESBORO RD SE/MIDWAY ST SE,,,2409
+892,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150030,JONESBORO RD SE/2267,,,2409
+893,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,150032,JONESBORO RD SE/CONSTITUTION RD SE,,,2409
+894,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,159084,JONESBORO RD SE/2980,,,2409
+895,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,102253,CAPITOL AVE/MEMORIAL DR,,,2409
+896,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,125002,RIDGE AVE SW/PULLIAM ST SW,1,,2409
+897,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,138005,JONESBORO RD SE/MOURY AVE SE,,,2409
+898,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,139020,BROWNS MILL RD SE/JONESBORO RD SE,,,2409
+899,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212083,JONESBORO RD/BARTLETT RD,1,,2409
+900,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212084,JONESBORO RD/WATTS RD,1,,2409
+901,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212085,JONESBORO RD/GRACE DR,,,2409
+902,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212086,JONESBORO RD/OLD JONESBORO RD,1,,2409
+903,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212087,JONESBORO RD/ERNEST DR,,,2409
+904,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212088,JONESBORO RD/THURMAN RD,,,2409
+905,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212089,JONESBORO RD/CONLEY RD,2,,2409
+906,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212090,JONESBORO RD/SCOTT RD,,,2409
+907,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212091,JONESBORO RD/RUSKIN DR,,,2409
+908,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212194,JONESBORO RD SE/CONLEY RD SE,0,0,2409
+909,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212195,CONLEY RD SE/925,,1,2409
+910,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,907703,JONESBORO RD/2640,,,2409
+911,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212196,FORREST PARK RD SE/CONLEY RD SE,,,2409
+912,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212197,FORREST PARK RD SE/FOREST VALLEY DR SE,,,2409
+913,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212198,FORREST PARK RD SE/OAKSHIRE WAY SE,1,,2409
+914,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212199,FORREST PARK RD SE/EISENHOWER RD SE,,,2409
+915,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212200,FORREST PARK RD SE/PINE FOREST DR SE,,,2409
+916,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212201,HUTCHENS RD SE/FORREST PARK RD SE,,,2409
+917,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212202,HUTCHENS RD SE/916,,,2409
+918,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212203,HUTCHENS RD SE/852,,,2409
+919,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212205,HUTCHENS RD SE/KATOMARICK DR SE,,,2409
+920,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212206,HUTCHENS RD SE/DONNEBROOK LN SE,,,2409
+921,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212207,HUTCHENS RD SE/KING SMITH RD SE,1,,2409
+922,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212208,HUTCHENS RD SE/560,,,2409
+923,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212209,HUTCHENS RD SE/JONESBORO RD SE,,,2409
+924,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212353,FOREST PKY/BARTLETT DR,1,,2409
+925,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212582,JONESBORO RD/METCALF RD,,,2409
+926,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212583,JONESBORO RD/MAIN ST,,,2409
+927,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,212834,JONESBORO RD SE/SAWTELL AVE SE,,,2409
+928,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,210596,UNIVERSITY AVE/PRYOR RD,,1,2409
+929,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211170,UNIVERSITY AVE SW/71,,,2409
+930,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211405,HARPER RD SE/BROWNS MILL RD SE,1,,2409
+931,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211408,JONESBORO RD SE/MCWILLIAMS RD SE,1,,2409
+932,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211558,JONESBORO RD SE/SPRINGSIDE DR,,,2409
+933,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211559,JONESBORO RD SE/2920,,,2409
+934,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211592,HARPER RD SE/JERNIGAN DR SE,,,2409
+935,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211594,BROWNS MILL RD SE/2045,,,2409
+936,7/1/2016,55,55: Cleveland Ave/Lakewood Heights,Northbound,211649,JONESBORO RD SE/2520,,,2409
+937,7/1/2016,58,58: Bolton Road,Westbound,901849,ATLANTA INDUSTRIAL PKWY/3555,0,0,1655
+938,7/1/2016,58,58: Bolton Road,Westbound,901934,BOLTON RD/BROWNTOWN RD,0,0,1655
+939,7/1/2016,58,58: Bolton Road,Westbound,901998,BOLTON RD/PEYTON RD,0,0,1655
+940,7/1/2016,58,58: Bolton Road,Westbound,902004,BOLTON RD/REY ST,0,3,1655
+941,7/1/2016,58,58: Bolton Road,Westbound,903942,HOLLYWOOD RD NW/GUN CLUB RD NW,0,1,1655
+942,7/1/2016,58,58: Bolton Road,Westbound,904156,HOLLYWOOD RD NW/829,0,2,1655
+943,7/1/2016,58,58: Bolton Road,Westbound,904157,HOLLYWOOD RD NW/EUGENIA PL NW,0,2,1655
+944,7/1/2016,58,58: Bolton Road,Westbound,904158,HOLLYWOOD RD NW/LOUISE PL NW,0,1,1655
+945,7/1/2016,58,58: Bolton Road,Westbound,904246,HOLLYWOOD RD NW/JOHNSON RD NW,0,0,1655
+946,7/1/2016,58,58: Bolton Road,Westbound,904247,HOLLYWOOD DR NW/CATO ST NW,0,0,1655
+947,7/1/2016,58,58: Bolton Road,Westbound,904283,DONALD L HOLLOWELL PKY/MATILDA PL NW,0,0,1655
+948,7/1/2016,58,58: Bolton Road,Westbound,904325,DONALD L HOLLOWELL PKY/GERTRUDE PL NW,0,0,1655
+949,7/1/2016,58,58: Bolton Road,Westbound,904326,DONALD L HOLLOWELL PKY/EVELYN PL NW,0,0,1655
+950,7/1/2016,58,58: Bolton Road,Westbound,904393,DONALD L HOLLOWELL PKY/ELIZABETH PL NW,0,0,1655
+951,7/1/2016,58,58: Bolton Road,Westbound,902118,ATLANTA INDUSTRIAL PKY/BANKHEAD HW,0,0,1655
+952,7/1/2016,58,58: Bolton Road,Westbound,902159,ATLANTA IND PKWY/ATLANTA IND DRNW,0,0,1655
+953,7/1/2016,58,58: Bolton Road,Westbound,904394,DONALD L HOLLOWELL PKY/EDWIN PL NW,0,3,1655
+954,7/1/2016,58,58: Bolton Road,Westbound,904458,DONALD L HOLLOWELL PKY/ELINOR PL NW,0,0,1655
+955,7/1/2016,58,58: Bolton Road,Westbound,904505,DONALD L HOLLOWELL PKY/HOLLY ST NW,0,0,1655
+956,7/1/2016,58,58: Bolton Road,Westbound,904506,DONALD L HOLLOWELL PKY/ELMWOOD RD NW,0,0,1655
+957,7/1/2016,58,58: Bolton Road,Westbound,210300,BOLTON RD/PARROTT AVE,0,0,1655
+958,7/1/2016,58,58: Bolton Road,Westbound,904519,BANKHEAD STATION,35,0,1655
+959,7/1/2016,58,58: Bolton Road,Westbound,904657,DONALD L HOLLOWELL PKY/CHAPPELL RD NW,0,0,1655
+960,7/1/2016,58,58: Bolton Road,Westbound,210301,BOLTON RD/JAMES JACKSON PKWY,0,0,1655
+961,7/1/2016,58,58: Bolton Road,Westbound,210302,PEYTON RD/JAMES JACKSON PKWY,0,0,1655
+962,7/1/2016,58,58: Bolton Road,Westbound,210303,PEYTONRD/2770,1,0,1655
+963,7/1/2016,58,58: Bolton Road,Westbound,900112,NORTHWEST DR/GLENLOCKE CIR NW,0,3,1655
+964,7/1/2016,58,58: Bolton Road,Westbound,904658,DONALD L HOLLOWELL PKY/ELBRIDGE DR NW,0,0,1655
+965,7/1/2016,58,58: Bolton Road,Westbound,904659,DONALD L HOLLOWELL PKY/PIERCE AVE NW,0,0,1655
+966,7/1/2016,58,58: Bolton Road,Westbound,904696,DONALD L HOLLOWELL PKY/FLORENCE PL NW,0,0,1655
+967,7/1/2016,58,58: Bolton Road,Westbound,904864,HOLLYWOOD RD NW/MARGARET PL NW,0,3,1655
+968,7/1/2016,58,58: Bolton Road,Westbound,902404,BOLTON RD NW/SAM ST,0,0,1655
+969,7/1/2016,58,58: Bolton Road,Westbound,902409,HOLLYWOOD RD/MILTON AVE,0,4,1655
+970,7/1/2016,58,58: Bolton Road,Westbound,211023,ATLANTA IND PKWY/3201,0,0,1655
+971,7/1/2016,58,58: Bolton Road,Westbound,902481,ATLANTA INDUSTRIAL PKY/3755,0,5,1655
+972,7/1/2016,58,58: Bolton Road,Westbound,902541,HOLLYWOOD RD NW/BROOKS AVE NW,0,1,1655
+973,7/1/2016,58,58: Bolton Road,Westbound,902542,HOLLYWOOD RD NW/ALVIN DR NW,0,0,1655
+974,7/1/2016,58,58: Bolton Road,Westbound,902543,HOLLYWOOD RD NW/SPRING ST NW,0,0,1655
+975,7/1/2016,58,58: Bolton Road,Westbound,902544,SAINT JAMES AVE NW/8TH ST NW,0,0,1655
+976,7/1/2016,58,58: Bolton Road,Westbound,211433,FULTON IND BLVD/D L HOLLOWELL PKWY,0,1,1655
+977,7/1/2016,58,58: Bolton Road,Westbound,211444,FULTON IND BLVD/BOLTON RD NW,0,0,1655
+978,7/1/2016,58,58: Bolton Road,Westbound,901436,NORTHWEST DR/1304,0,0,1655
+979,7/1/2016,58,58: Bolton Road,Westbound,902545,NORTHWEST DR NW/WEDGEWOOD DR NW,0,0,1655
+980,7/1/2016,58,58: Bolton Road,Westbound,902546,NORTHWEST DR NW/1190,0,0,1655
+981,7/1/2016,58,58: Bolton Road,Westbound,902547,NORTHWEST DR NW/1291,0,0,1655
+982,7/1/2016,58,58: Bolton Road,Westbound,902567,HOLLYWOOD RD NW/SAINT PAUL AVE NW,0,0,1655
+983,7/1/2016,58,58: Bolton Road,Westbound,902568,HIGHTOWER RD NW/ETHERIDGE DR NW,0,0,1655
+984,7/1/2016,58,58: Bolton Road,Westbound,901503,HIGHTOWER RD/WEST AVE,0,1,1655
+985,7/1/2016,58,58: Bolton Road,Westbound,902570,SAINT JAMES AVE NW/7TH ST NW,0,0,1655
+986,7/1/2016,58,58: Bolton Road,Westbound,902571,NORTHWEST DR NW/1341,0,0,1655
+987,7/1/2016,58,58: Bolton Road,Westbound,902572,NORTHWEST DR NW/1375,0,0,1655
+988,7/1/2016,58,58: Bolton Road,Westbound,902599,HOLLYWOOD RD/1073,0,1,1655
+989,7/1/2016,58,58: Bolton Road,Westbound,902600,NORTHWEST DR NW/JAMES JACKSON PKY,0,4,1655
+990,7/1/2016,58,58: Bolton Road,Westbound,902601,NORTHWEST DR/1415,0,1,1655
+991,7/1/2016,58,58: Bolton Road,Westbound,211561,HOLLYWOOD RD NW/N GRAND AVE NW,0,0,1655
+992,7/1/2016,58,58: Bolton Road,Westbound,211587,BOLTON RD NW/1481,0,0,1655
+993,7/1/2016,58,58: Bolton Road,Westbound,902602,NORTHWEST DR/1514,0,0,1655
+994,7/1/2016,58,58: Bolton Road,Westbound,902620,NORTHWEST DR NW/MANGO CIR,0,0,1655
+995,7/1/2016,58,58: Bolton Road,Westbound,902621,BOLTON RD NW/PARROTT AVE,0,0,1655
+996,7/1/2016,58,58: Bolton Road,Westbound,211934,BOLTON RD NW/NORTHWEST DR NW,0,0,1655
+997,7/1/2016,58,58: Bolton Road,Westbound,211960,NORTHWEST DR/BOLTON RD,0,0,1655
+998,7/1/2016,58,58: Bolton Road,Westbound,901644,BOLTON RD NW/BROWNTOWN RD NW,0,0,1655
+999,7/1/2016,58,58: Bolton Road,Westbound,901645,BOLTON RD NW/SAM ST NW,0,0,1655
